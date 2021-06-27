@@ -1,0 +1,6 @@
+- 👋 Hi There, I am @snpanicker.
+- 👀 I am interested in Data Science and learning Data Analytics tools.
+- 🌱 I am currently learning the basics of Data Analytics tools.
+- 💞️ I’m looking to collaborate with interested people in Data Science and Data Analytics.
+- 📫 Interested people can reach me on my Linkedin "Sankaranarayana Panicker".
+-🤞 I will be posting my works here and I am interested to hear the feedback from you.
